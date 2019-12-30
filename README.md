@@ -13,6 +13,7 @@ The hypothesis is, presentation and discussion of various topics is a good way o
 - Media Format: YouTube, vlog
 - Schedule: every Monday, 3pm UTC,
 - Video Length: 15m +- 1m
+- Content: privacy related, solid, specific, clear concept, narrow scope
 
 ### Media Format
 
@@ -29,3 +30,7 @@ The hypothesis is, presentation and discussion of various topics is a good way o
 ### Video Length
 
 Recommended video lengths vary greatly, what may matters more is consistent video length to manage viewer expectations. A lower limit could be set at 10 minutes, as it would be difficult to explain complex issues in less time and an upper limit could be set at 20 minutes, as there is a rough consensus on viewer attention span around that number. However this is too broad range to consider it as consistent video quality, so let's settle in the middle at 15min +- 1min.
+
+### Content
+
+The topic of a video can be anything related to privacy. The scope of a video must be narrow and specific. The presenter must present a solid concept in a clear and conscious way.
