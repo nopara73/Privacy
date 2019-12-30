@@ -8,7 +8,7 @@ The hypothesis is, presentation and discussion of various topics is a good way o
 
 ## Implementation
 
-### The Chosen Media
+### Media Format
 
 - In 2019, the most engaging form of media is video.
 - The largest video content sharing platform is YouTube.
@@ -19,6 +19,6 @@ The hypothesis is, presentation and discussion of various topics is a good way o
 - How often post a video?
 - What is the ideal time of the day to post a video?
 
-### Format of a Video
+### Video Format
 
 - How long should a video take?
