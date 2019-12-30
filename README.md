@@ -8,6 +8,10 @@ The hypothesis is, presentation and discussion of various topics is a good way o
 
 ## Implementation
 
+### Summary
+
+- YouTube, vlog, every Monday, 3pm UTC
+
 ### Media Format
 
 - In 2019, the most engaging form of media is video.
@@ -17,7 +21,7 @@ The hypothesis is, presentation and discussion of various topics is a good way o
 ### Schedule
 
 - There is consensus among Youtubers that posting less frequently than once a week isn't recommended and there is debate on more frequent content, which may signal diminishing returns.
-- What is the ideal day and time of the day to post a weekly video?
+- There is much debate on what day and what time it is best to post videos, which may signal high individual variance or the low significance of this question. Let's chose Mondays, as this is an educational channel, and the start of the week may be the the most approrpiate time when our viewers are most likely to benefit from our shows and maybe even follow up on them. Let's choose 3pm UTC, as most of our viewers are expected to be from the western world and western cultures appreciate privacy the most.
 
 ### Timing
 
