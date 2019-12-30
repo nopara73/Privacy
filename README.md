@@ -16,9 +16,9 @@ The hypothesis is, presentation and discussion of various topics is a good way o
 
 ### Schedule
 
-- How often post a video?
-- What is the ideal time of the day to post a video?
+- There is consensus among Youtubers that posting less frequently than once a week isn't recommended and there is debate on more frequent content, which may signal diminishing returns.
+- What is the ideal day and time of the day to post a weekly video?
 
-### Video Format
+### Timing
 
 - How long should a video take?
