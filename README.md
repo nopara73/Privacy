@@ -12,7 +12,7 @@ The hypothesis is, presentation and discussion of various topics is a good way o
 
 - In 2019, the most engaging form of media is video.
 - The largest video content sharing platform is YouTube.
-- Vlogging is an ideal format, since it requires the low effort to be put into video editing and production.
+- The goal of this video series is deepening knowledge of the authors on the domain, thus vlogging is an ideal format, since it requires one of the lowest effort to be put into video editing and production among other formats.
 
 ### Schedule
 
