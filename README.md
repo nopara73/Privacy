@@ -34,3 +34,11 @@ Recommended video lengths vary greatly, what may matters more is consistent vide
 ### Content
 
 The topic of a video can be anything related to privacy. The scope of a video must be narrow and specific. The presenter must present a solid concept in a clear and conscious way.
+
+### Structure
+
+#### I. Narrative Hook (1-2 minutes)
+
+Start the video with a hook, to get the audience engaged right away. Various types of narrative hooks: https://www.writersdigest.com/online-editor/10-ways-hook-reader-reel-good
+
+### II. Quick Intro (<1m)
