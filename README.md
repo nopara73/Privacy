@@ -11,10 +11,11 @@ The hypothesis is, presentation and discussion of various topics is a good way o
 ### Summary
 
 - Media Format: YouTube, vlog
-- Schedule: every Monday, 3pm UTC,
+- Schedule: every Monday, 3pm UTC
 - Video Length: 15m +- 1m
 - Content: privacy related, solid, specific, clear concept, narrow scope
-- Script: Narrative Hook (<2m), Intro (<1m), R-Mode (<5m), L-Mode (<10m, >3 jokes, >1 metaphore), Closing?
+- Script: Narrative Hook (<2m), Intro (<1m), R-Mode (<5m), L-Mode (<10m, >3 jokes, >1 metaphore)
+- Attitude: Dismiss negative comments.
 
 ### Media Format
 
@@ -26,7 +27,6 @@ The hypothesis is, presentation and discussion of various topics is a good way o
 
 - There is consensus among YouTubers that posting less frequently than once a week isn't recommended and there is debate on more frequent content, which may signal diminishing returns.
 - There is much debate on what day and what time it is best to post videos, which may signal high individual variance or the low significance of this question. Let's chose Mondays, as this is an educational channel, and the start of the week may be the the most approrpiate time when our viewers are most likely to benefit from our shows and maybe even follow up on them. Let's choose 3pm UTC, as most of our viewers are expected to be from the western world and western cultures appreciate privacy the most.
-- Total number of videos?
 
 ### Video Length
 
@@ -42,9 +42,9 @@ The topic of a video can be anything related to privacy. The scope of a video mu
 
 Start the video with a hook, to get the audience engaged right away. Various types of narrative hooks: https://www.writersdigest.com/online-editor/10-ways-hook-reader-reel-good
 
-### II. Quick Intro (<1m)
+#### II. Quick Intro (<1m)
 
-### III. R-Mode (<5m)
+#### III. R-Mode (<5m)
 
 "Engage an R-mode to L-mode Flow" (Andy Hunt - Pragmatic Thinking and Learning)
 
@@ -52,10 +52,25 @@ An example could be storytelling.
 
 imagination, holistic thinking, intuition, arts, rhythm, nonverbal cues, feelings visualization, daydreaming
 
-### IV. L-Mode (<10m)
+#### IV. L-Mode (<10m)
 
 The actual presentation of the concept.
 
 10 minutes L-Mode can be intense, so in order to keep the viewer's attention we need to cycle back to R-Mode once in a while with jokes and metaphores. Thus the criteria of this section is >3 jokes, funny moments, >1 metaphore.
 
-### Closing? 
+#### V. Closing?
+
+### Attitude
+
+Categorically dismiss negative comments, as the goal of this video series is to learn and wasting time on negative comments is unproductive.
+
+## ToDo/Brainstorming
+
+- [ ] Closing: Call to action? Point to this GitHub and tell them to submit videos by themselves.
+- [ ] How often to revise this doc?
+- [ ] How many pre-recorded videos to make?
+- [ ] Total number of videos?
+- [ ] Do we need to introduce ourselves every time?
+- [ ] Thumbnails how?
+- [ ] Title how?
+
