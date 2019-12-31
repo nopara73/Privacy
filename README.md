@@ -14,6 +14,7 @@ The hypothesis is, presentation and discussion of various topics is a good way o
 - Schedule: every Monday, 3pm UTC,
 - Video Length: 15m +- 1m
 - Content: privacy related, solid, specific, clear concept, narrow scope
+- Script: Narrative Hook (<2m), Intro (<1m), R-Mode (<5m), L-Mode (<10m, >3 jokes, >1 metaphore), Closing?
 
 ### Media Format
 
@@ -35,10 +36,26 @@ Recommended video lengths vary greatly, what may matters more is consistent vide
 
 The topic of a video can be anything related to privacy. The scope of a video must be narrow and specific. The presenter must present a solid concept in a clear and conscious way.
 
-### Structure
+### Script
 
-#### I. Narrative Hook (1-2 minutes)
+#### I. Narrative Hook (<2m)
 
 Start the video with a hook, to get the audience engaged right away. Various types of narrative hooks: https://www.writersdigest.com/online-editor/10-ways-hook-reader-reel-good
 
 ### II. Quick Intro (<1m)
+
+### III. R-Mode (<5m)
+
+"Engage an R-mode to L-mode Flow" (Andy Hunt - Pragmatic Thinking and Learning)
+
+An example could be storytelling.
+
+imagination, holistic thinking, intuition, arts, rhythm, nonverbal cues, feelings visualization, daydreaming
+
+### IV. L-Mode (<10m)
+
+The actual presentation of the concept.
+
+10 minutes L-Mode can be intense, so in order to keep the viewer's attention we need to cycle back to R-Mode once in a while with jokes and metaphores. Thus the criteria of this section is >3 jokes, funny moments, >1 metaphore.
+
+### Closing? 
