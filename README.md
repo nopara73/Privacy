@@ -13,7 +13,7 @@ The hypothesis is, presentation and discussion of various topics is a good way o
 - Media Format: YouTube, vlog
 - Schedule: every Monday, 3pm UTC
 - Video Length: 15m +- 1m
-- Content: privacy related, solid, specific, clear, non-controversial, magical concept, narrow scope
+- Content: privacy related, solid, specific, clear, non-controversial and magical concept, narrow scope
 - Script: Narrative Hook (<2m), Intro (<1m), R-Mode (<5m), L-Mode (<10m, >3 jokes, >1 metaphore)
 - Attitude: Dismiss negative comments.
 
