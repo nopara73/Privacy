@@ -1,3 +1,5 @@
+**UPDATE:** The idea has been discarded in favor of https://github.com/nopara73/PRRC
+
 # Privacy
 
 Series of videos to explore privacy research literature.
