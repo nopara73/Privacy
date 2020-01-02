@@ -1,4 +1,4 @@
-**UPDATE:** The idea has been discarded in favor of https://github.com/nopara73/PRRC
+**UPDATE:** We did not succeed to come to agreement on this idea, so it's been discarded.
 
 # Privacy
 
